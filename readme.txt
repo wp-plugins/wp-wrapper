@@ -3,8 +3,8 @@ Contributors: nabtron
 Donate link: http://nabtron.com/nablab/
 Tags: wrapper, wordpress, joomla, frame, iframe, page, nabwrapper, wpwrapper, wp-wrapper
 Requires at least: 2.5
-Tested up to: 3.2.1
-Stable tag: 1.1.1
+Tested up to: 3.7.1
+Stable tag: 1.1.2
 
 Wrapper for WordPress pages using iFrame. Various options in admin panel
 
@@ -51,6 +51,9 @@ Currently short codes are not supported. Later versions will include option to g
 1. Wrapper for WordPress pages using iFrame. Various options in admin panel
 
 == Changelog ==
+
+= 1.1.2 =
+* wp 3.7.1 compatible now
 
 = 1.1.1 =
 * fixed bug - showing wrapper on non-selected pages
